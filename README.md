@@ -14,8 +14,7 @@ nvim:
 `PATH_TO_GAIA='$HOME/path/to/gaia'`
 `cp -a $PATH_TO_GAIA/nvim/.config/nvim/ ~/.config/nvim/`
 
-3. in the lazy screen `<Space>-<l>`, make sure to install <I> and sync <S>
-
+3. in the lazy screen `<Space>-<l>`, make sure to install `<I>` and sync `<S>`
 
 kitty:
 1. backup old config files
