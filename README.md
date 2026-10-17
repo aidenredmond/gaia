@@ -1,7 +1,3 @@
-[global](https://en.wikipedia.org/wiki/Gaia) config files currently housing
-1. kitty
-2. nvim/lazyvim
-
 steps to use
 
 `git clone https://github.com/aidenredmond/gaia.git`
